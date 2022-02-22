@@ -6,6 +6,7 @@ function App() {
       <div>wtf</div>
       <div>wtf</div>
       <div>wtf</div>
+      <div>Day la nhanh A</div>
     </div>
   );
 }
